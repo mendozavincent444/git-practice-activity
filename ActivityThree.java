@@ -34,6 +34,7 @@ public class ActivityThree {
             int horseCount = scanner.nextInt();
 
 
+            // this is a comment
             List<Horse> horses = new ArrayList<>();
 
             for (int i = 0; i < horseCount; i++) {
