@@ -33,7 +33,7 @@ public class ActivityThree {
             System.out.print("Enter the number of horses: ");
             int horseCount = scanner.nextInt();
 
-
+	    //test123
             List<Horse> horses = new ArrayList<>();
 
             for (int i = 0; i < horseCount; i++) {
